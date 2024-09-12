@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QA-ANS-/static/css/main.74e8447d.css",
+    "main.js": "/QA-ANS-/static/js/main.180af919.js",
+    "index.html": "/QA-ANS-/index.html",
+    "main.74e8447d.css.map": "/QA-ANS-/static/css/main.74e8447d.css.map",
+    "main.180af919.js.map": "/QA-ANS-/static/js/main.180af919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e8447d.css",
+    "static/js/main.180af919.js"
+  ]
+}
